@@ -17,7 +17,7 @@
 | 📍 **Location** | Hyderabad, Telangana, India |
 | 🎯 **Seeking** | Entry-level SOC Analyst or AI Security role |
 | 🤖 **AI Tools** | ChatGPT · Gemini · Claude · Microsoft Copilot |
-| 🔐 **Core Skills** | Splunk SIEM · Wireshark · Nmap · Linux · Prompt Engineering |
+| 🔐 **Core Skills** | Splunk SIEM · Wireshark · Nmap · Linux · Python · Prompt Engineering |
 | 📱 **Phone** | +91 93461 93981 |
 | 📧 **Email** | msvkmaneesh95@gmail.com |
 
@@ -35,8 +35,10 @@
 ![SSH](https://img.shields.io/badge/SSH-Secure%20Shell-black)
 ![Firewall](https://img.shields.io/badge/UFW-Firewall-orange)
 
-**AI and Prompt Engineering**
+**Python & AI Development**
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq-AI%20API-orange)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-74aa9c?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-AI-4285F4?logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757)
@@ -47,7 +49,7 @@
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -138,24 +140,59 @@ Developed a Bash-based file encryption and decryption tool using OpenSSL impleme
 
 ---
 
+## Python SOC AI Projects
+
+> Built from scratch in 10 days — Zero Python knowledge to AI-Powered SOC Tool!!
+
+| Day | Project | Skill |
+|-----|---------|-------|
+| Day 1 | SOC Analyst Dashboard | print() and Variables |
+| Day 2 | Brute Force Alert System | If/Else decisions |
+| Day 3 | IP Scanner | Loops |
+| Day 4 | Blocklist Manager | Lists |
+| Day 5 | SOC Threat Detector | Functions |
+| Day 6 | Log File Scanner | File Reading |
+| Day 7 | Incident Report Generator | Dictionaries |
+| Day 8 | AI Integration | Groq API |
+| Day 9 | AI SOC Incident Responder | Full Project |
+| Day 10 | GitHub Upload | Version Control |
+
+**Featured — AI SOC Incident Responder:**
+- 🔍 Reads real SSH auth.log files automatically
+- 🚨 Detects all FAILED login attempts
+- 🤖 Sends suspicious IPs to AI for analysis
+- 📄 Generates professional SOC incident report
+- ⚡ Reduces manual analysis time by 85%
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI%20API-orange)
+![MITRE](https://img.shields.io/badge/MITRE-T1110%20Brute%20Force-red)
+
+[View Full Project →](./Python-SOC-AI-Projects)
+
+---
+
 ## 📜 Certifications
 
 | Certificate | Issuer | Status |
 |-------------|--------|--------|
-| AI for Beginners — ChatGPT, Claude, Gemini and Copilot | Udemy | Completed |
-| Introduction to Cyber Security | Simplilearn | Completed |
-| Fundamentals of Red Hat Enterprise Linux 9 (RH066X) | Red Hat | Completed |
-| Introduction to Linux (LFS101X) | The Linux Foundation | Completed |
-| Certified in Cybersecurity (CC) | ISC2 | In Progress |
-| Introduction to Generative AI | Google Cloud | In Progress |
+| AI for Beginners — ChatGPT, Claude, Gemini and Copilot | Udemy | ✅ Completed |
+| Introduction to Cyber Security | Simplilearn | ✅ Completed |
+| Fundamentals of Red Hat Enterprise Linux 9 (RH066X) | Red Hat | ✅ Completed |
+| Introduction to Linux (LFS101X) | The Linux Foundation | ✅ Completed |
+| Python Essentials 1 | Cisco Networking Academy | ✅ Completed |
+| Certified in Cybersecurity (CC) | ISC2 | 🔄 In Progress |
+| Introduction to Generative AI | Google Cloud | 🔄 In Progress |
 
 ---
 
 ## 👤 About Me
 
-BSc Computer Science graduate from Hyderabad focused on AI-augmented cybersecurity — combining SOC skills (Splunk SIEM, Wireshark, Nmap, Linux) with practical AI tool usage (ChatGPT, Claude, Gemini, Copilot) to build modern security workflows.
+BSc Computer Science graduate from Visakhapatnam and focused on AI-augmented cybersecurity — combining SOC skills (Splunk SIEM, Wireshark, Nmap, Linux) with practical AI tool usage (ChatGPT, Claude, Gemini, Copilot) to build modern security workflows.
 
-Seeking an entry-level SOC Analyst or AI Security role to apply hands-on project experience in real-world threat detection and incident response.
+Built an **AI-Powered SOC Incident Responder** from scratch using Python and Groq AI API — starting from zero Python knowledge and completing it in 10 days!!
+
+Seeking an entry-level **SOC Analyst** or **AI Security** role to apply hands-on project experience in real-world threat detection and incident response.
 
 ---
 
